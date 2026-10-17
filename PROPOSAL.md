@@ -13,7 +13,8 @@
 - 是否为移植项目：是
 - 原项目：PASETO 规范（ve-02）及官方测试向量；
   参考实现 aeronauticaly/paseto、paseto.js（均为思路参考，无代码复制）
-- 原项目许可证：PASETO 规范文档 MIT；参考实现 MIT
+- 原项目许可证：官方测试向量 ISC（Paragon Initiative Enterprises，
+  已按要求保留声明，见 THIRD_PARTY_NOTICES.md）；参考实现 MIT
 - 本项目许可证：Apache-2.0
 - GitHub 仓库链接：https://github.com/xiguaAp6y3/moon-paseto
 - 联系方式：【填写】

@@ -46,7 +46,9 @@ moon run cmd/main
 
 ## 上游与许可证
 
-- 规范：[PASETO Specification（ve-02）](https://github.com/paseto-spec/paseto-spec)，
-  官方测试向量作为本库测试基线；参考实现为 aeronauticaly/paseto、paseto.js 等（思路参考，无代码复制）。
+- 规范：[PASETO Specification（ve-02）](https://github.com/paseto-standard/paseto-spec)，
+  官方测试向量作为本库测试基线（向量版权归 Paragon Initiative Enterprises，
+  ISC 许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)）；参考实现为
+  aeronauticaly/paseto、paseto.js 等（思路参考，无代码复制）。
 - 密码学原语：[cc06b/mooncry](https://mooncakes.io/docs/cc06b/mooncry)（Apache-2.0）。
 - 本项目采用 Apache-2.0 许可证（见 [LICENSE](LICENSE)）。
